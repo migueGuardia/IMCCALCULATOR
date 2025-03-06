@@ -76,17 +76,17 @@ Cada categoría tiene una imagen asociada en `res/drawable/`.
 
 ## Apariencia de la Aplicación
 ### Pantalla Principal
-![Pantalla Principal](res/drawable/pantalla-principal.png)
+<img src="res/drawable/pantalla-principal.png" alt="Pantalla Principal" width="150">
 
 ### Ejemplo de Resultado IMC
 **Ligero:**
-![IMC Ligero](app/src/main/res/drawable/ligero.jpg)
+<img src="app/src/main/res/drawable/ligero.jpg" alt="IMC Ligero" width="100">
 
 **Normal:**
-![IMC Normal](app/src/main/res/drawable/normal.jpg)
+<img src="app/src/main/res/drawable/normal.jpg" alt="IMC Normal" width="100">
 
 **Pesado:**
-![IMC Pesado](app/src/main/res/drawable/pesado.jpg)
+<img src="app/src/main/res/drawable/pesado.jpg" alt="IMC Pesado" width="100">
 
 ## Tecnologías Utilizadas
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-blue) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
