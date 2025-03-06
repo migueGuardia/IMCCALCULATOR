@@ -72,21 +72,21 @@ fun getImageForCategory(category: String): Int? {
     }
 }
 ```
-Cada categoría tiene una imagen asociada en `assets/img`.
+Cada categoría tiene una imagen asociada en `res/drawable/`.
 
 ## Apariencia de la Aplicación
 ### Pantalla Principal
-<a><img src="assets/img/pantalla-principal.png" alt="Pantalla Principal" width="250"></a>
+![Pantalla Principal](res/drawable/pantalla-principal.png)
 
 ### Ejemplo de Resultado IMC
 **Ligero:**
-<a><img app="src/res/drawable/ligero.jpg" alt="IMC Ligero" width="200"></a>
+![IMC Ligero](app/src/main/res/drawable/ligero.jpg)
 
 **Normal:**
-<a><img src="res/drawable/normal.jpg" alt="IMC Normal" width="200"></a>
+![IMC Normal](app/src/main/res/drawable/normal.jpg)
 
 **Pesado:**
-<a><img src="res/drawable/pesado.jpg" alt="IMC Pesado" width="200"></a>
+![IMC Pesado](app/src/main/res/drawable/pesado.jpg)
 
 ## Tecnologías Utilizadas
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-blue) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
@@ -108,6 +108,7 @@ git clone https://github.com/tu_usuario/IMC_Calculator.git
 
 ---
 _¡Gracias por usar la Calculadora de IMC!_ 🚀
+
 
 
 
