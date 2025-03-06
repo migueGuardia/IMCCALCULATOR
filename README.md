@@ -103,7 +103,7 @@ fun calculateIMC() {
 
 ## Obtener el Código
 ```Bash
-git clone https://github.com/tu_usuario/IMC_Calculator.git
+git clone https://github.com/migueGuardia/IMCCALCULATOR.git
 ```
 
 ---
