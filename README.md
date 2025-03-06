@@ -76,7 +76,7 @@ Cada categoría tiene una imagen asociada en `res/drawable/`.
 
 ## Apariencia de la Aplicación
 ### Pantalla Principal
-<img src="res/drawable/pantalla-principal.png" alt="Pantalla Principal" width="150">
+<img src="res/drawable/Captura de pantalla 2025-03-06.jpg" alt="Pantalla Principal" width="150">
 
 ### Ejemplo de Resultado IMC
 **Ligero:**
