@@ -72,21 +72,21 @@ fun getImageForCategory(category: String): Int? {
     }
 }
 ```
-Cada categoría tiene una imagen asociada en `res/drawable`.
+Cada categoría tiene una imagen asociada en `assets/img`.
 
 ## Apariencia de la Aplicación
 ### Pantalla Principal
-<a><img src="https://ruta-de-tu-imagen.com/pantalla-principal.png" alt="Pantalla Principal" width="250"></a>
+<a><img src="assets/img/pantalla-principal.png" alt="Pantalla Principal" width="250"></a>
 
 ### Ejemplo de Resultado IMC
 **Ligero:**
-<a><img src="https://ruta-de-tu-imagen.com/ligero.png" alt="IMC Ligero" width="200"></a>
+<a><img src="assets/img/ligero.png" alt="IMC Ligero" width="200"></a>
 
 **Normal:**
-<a><img src="https://ruta-de-tu-imagen.com/normal.png" alt="IMC Normal" width="200"></a>
+<a><img src="assets/img/normal.png" alt="IMC Normal" width="200"></a>
 
 **Pesado:**
-<a><img src="https://ruta-de-tu-imagen.com/pesado.png" alt="IMC Pesado" width="200"></a>
+<a><img src="assets/img/pesado.png" alt="IMC Pesado" width="200"></a>
 
 ## Tecnologías Utilizadas
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-blue) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
@@ -108,6 +108,7 @@ git clone https://github.com/tu_usuario/IMC_Calculator.git
 
 ---
 _¡Gracias por usar la Calculadora de IMC!_ 🚀
+
 
 
 
