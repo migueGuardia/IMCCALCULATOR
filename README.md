@@ -80,7 +80,7 @@ Cada categoría tiene una imagen asociada en `assets/img`.
 
 ### Ejemplo de Resultado IMC
 **Ligero:**
-<a><img src="res/drawable/ligero.jpg" alt="IMC Ligero" width="200"></a>
+<a><img app="src/res/drawable/ligero.jpg" alt="IMC Ligero" width="200"></a>
 
 **Normal:**
 <a><img src="res/drawable/normal.jpg" alt="IMC Normal" width="200"></a>
